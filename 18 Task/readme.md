@@ -6,4 +6,4 @@ In other words, you are given an array collection of objects. The predicate pre 
 In JavaScript, truthy values are values that translate to true when evaluated in a Boolean context.
 
 Remember, you can access object properties through either dot notation or [] notation.
-URL:
+URL:https://drive.500apps.com/a602f538
